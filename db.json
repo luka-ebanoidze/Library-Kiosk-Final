@@ -1,0 +1,1440 @@
+{
+  "user": [
+    {
+      "username": "123@123",
+      "password": "123",
+      "confirmation": "123",
+      "id": 1,
+      "books": [
+        {
+          "title": "Blood Communion",
+          "rating": 3,
+          "category": "Horror",
+          "img": "https://bookshop.ge/content/uploads/products/9781784758813.jpg",
+          "id": "13",
+          "price": "0"
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "title": "YOU CAN grow your own food",
+      "rating": 2,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780008372699.jpg",
+      "id": "1",
+      "price": "0"
+    },
+    {
+      "title": "YOU CAN take amazing photos",
+      "rating": 1,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780008372682.jpg",
+      "id": "2",
+      "price": "0"
+    },
+    {
+      "title": "Junior Spelling Activity Book",
+      "rating": 4,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780008526214.jpg",
+      "id": "3",
+      "price": "0"
+    },
+    {
+      "title": "The Jungle Book",
+      "rating": 5,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780141325293.jpg",
+      "id": "4",
+      "price": "0"
+    },
+    {
+      "title": "King Arthur and His Knights of the Round Table",
+      "rating": 5,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321011.jpg",
+      "id": "5",
+      "price": "0"
+    },
+    {
+      "title": "A Christmas Carol",
+      "rating": 3,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780141324524.jpg",
+      "id": "6",
+      "price": "0"
+    },
+    {
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "rating": 1,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780141377568.jpg",
+      "id": "7",
+      "price": "0"
+    },
+    {
+      "title": "Sobrevivi El Huracan Katrina",
+      "rating": 4,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9781338631050.jpg",
+      "id": "8",
+      "price": "0"
+    },
+    {
+      "title": "The Adventures of Tom Sawyer",
+      "rating": 5,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321103.jpg",
+      "id": "9",
+      "price": "0"
+    },
+    {
+      "title": "The Call of the Wild",
+      "rating": 3,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321059.jpg",
+      "id": "10",
+      "price": "0"
+    },
+    {
+      "title": "The Odyssey ",
+      "rating": 1,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780140383096.jpg",
+      "id": "11",
+      "price": "0"
+    },
+    {
+      "title": "Treasure Island",
+      "rating": 4,
+      "category": "Children",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321004.jpg",
+      "id": "12",
+      "price": "0"
+    },
+    {
+      "title": "Blood Communion",
+      "rating": 3,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781784758813.jpg",
+      "id": "13",
+      "price": "0"
+    },
+    {
+      "title": "The Inheritance Games",
+      "rating": 2,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9780241476178.jpg",
+      "id": "14",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 4,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781473665194.jpg",
+      "id": "15",
+      "price": "0"
+    },
+    {
+      "title": "Needful Things",
+      "rating": 3,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781444707878.jpg",
+      "id": "16",
+      "price": "0"
+    },
+    {
+      "title": "Edgar Allan Poe",
+      "rating": 3,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781911610212.jpg",
+      "id": "17",
+      "price": "0"
+    },
+    {
+      "title": "Good Omens",
+      "rating": 3,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9780552176453.jpg",
+      "id": "18",
+      "price": "0"
+    },
+    {
+      "title": "Stranger Things: Suspicious Minds",
+      "rating": 1,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462021.jpg",
+      "id": "19",
+      "price": "0"
+    },
+    {
+      "title": "Films to Scare you to Death",
+      "rating": 1,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781787391390.jpg",
+      "id": "20",
+      "price": "0"
+    },
+    {
+      "title": "Seventh Son",
+      "rating": 4,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781849418003.jpg",
+      "id": "21",
+      "price": "0"
+    },
+    {
+      "title": "Dracula",
+      "rating": 2,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9780241411155.jpg",
+      "id": "22",
+      "price": "0"
+    },
+    {
+      "title": "It",
+      "rating": 5,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781473666948.jpg",
+      "id": "23",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 3,
+      "category": "Horror",
+      "img": "https://bookshop.ge/content/uploads/products/9781473681293.jpg",
+      "id": "24",
+      "price": "0"
+    },
+    {
+      "title": "No Plan B",
+      "rating": 2,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9780552177559.jpg",
+      "id": "25",
+      "price": "0"
+    },
+    {
+      "title": "The Thursday Murder Club",
+      "rating": 4,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988268.jpg",
+      "id": "26",
+      "price": "0"
+    },
+    {
+      "title": "Gathering Dark",
+      "rating": 1,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462069.jpg",
+      "id": "27",
+      "price": "0"
+    },
+    {
+      "title": "The Man Who Died Twice",
+      "rating": 3,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988244.jpg",
+      "id": "28",
+      "price": "0"
+    },
+    {
+      "title": "One Of Us Is Lying",
+      "rating": 5,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9780141375632.jpg",
+      "id": "29",
+      "price": "0"
+    },
+    {
+      "title": "Two Can Keep a Secret",
+      "rating": 5,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9780141375656.jpg",
+      "id": "30",
+      "price": "0"
+    },
+    {
+      "title": "Serpentine",
+      "rating": 1,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9780241475249.jpg",
+      "id": "31",
+      "price": "0"
+    },
+    {
+      "title": "The Winters",
+      "rating": 3,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9781784709860.jpg",
+      "id": "32",
+      "price": "0"
+    },
+    {
+      "title": "The Push",
+      "rating": 3,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9781405945042.jpg",
+      "id": "33",
+      "price": "0"
+    },
+    {
+      "title": "Wolves of Rome",
+      "rating": 3,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9781509878994.jpg",
+      "id": "34",
+      "price": "0"
+    },
+    {
+      "title": "A Hologram for the King",
+      "rating": 3,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9780241979082.jpg",
+      "id": "35",
+      "price": "0"
+    },
+    {
+      "title": "Big Little Lies",
+      "rating": 3,
+      "category": "Thriller",
+      "img": "https://bookshop.ge/content/uploads/products/9781405916363.jpg",
+      "id": "36",
+      "price": "0"
+    },
+    {
+      "title": "Book Lovers",
+      "rating": 1,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9780241995341.jpg",
+      "id": "37",
+      "price": "0"
+    },
+    {
+      "title": "Beach Read",
+      "rating": 2,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9780241989524.jpg",
+      "id": "38",
+      "price": "0"
+    },
+    {
+      "title": "The One",
+      "rating": 4,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9780007466719.jpg",
+      "id": "39",
+      "price": "0"
+    },
+    {
+      "title": "The Elite",
+      "rating": 5,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9780007466702.jpg",
+      "id": "40",
+      "price": "0"
+    },
+    {
+      "title": "The Crown",
+      "rating": 3,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9780007580248.jpg",
+      "id": "41",
+      "price": "0"
+    },
+    {
+      "title": "A Thousand Boy Kisses",
+      "rating": 2,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9781405955317.jpg",
+      "id": "42",
+      "price": "0"
+    },
+    {
+      "title": "Exes And O's",
+      "rating": 5,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9780241997543.jpg",
+      "id": "43",
+      "price": "0"
+    },
+    {
+      "title": "A Million Kisses In Your Lifetime",
+      "rating": 1,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9781405955560.jpg",
+      "id": "44",
+      "price": "0"
+    },
+    {
+      "title": "Daisy Jones and The Six",
+      "rating": 3,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462144.jpg",
+      "id": "45",
+      "price": "0"
+    },
+    {
+      "title": "Glint",
+      "rating": 2,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9781405955041.jpg",
+      "id": "46",
+      "price": "0"
+    },
+    {
+      "title": "Let It Snow : Film Tie-In",
+      "rating": 5,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9780141371207.jpg",
+      "id": "47",
+      "price": "0"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "rating": 3,
+      "category": "Romance",
+      "img": "https://bookshop.ge/content/uploads/products/9780141345659.jpg",
+      "id": "48",
+      "price": "0"
+    },
+    {
+      "title": "No Plan B",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9780552177559.jpg",
+      "id": "49",
+      "price": "0"
+    },
+    {
+      "title": "Killing Floor ",
+      "rating": 5,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9781529177206.jpg",
+      "id": "50",
+      "price": "0"
+    },
+    {
+      "title": "Gathering Dark",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462069.jpg",
+      "id": "51",
+      "price": "0"
+    },
+    {
+      "title": "The Thursday Murder Club",
+      "rating": 2,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988268.jpg",
+      "id": "52",
+      "price": "0"
+    },
+    {
+      "title": "19th Christmas",
+      "rating": 5,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9781780899435.jpg",
+      "id": "53",
+      "price": "0"
+    },
+    {
+      "title": "Grotesque",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9780099488934.jpg",
+      "id": "54",
+      "price": "0"
+    },
+    {
+      "title": "The Dinner Guest",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9780008446086.jpg",
+      "id": "55",
+      "price": "0"
+    },
+    {
+      "title": "The Devil In The White City",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9780553813531.jpg",
+      "id": "56",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9780099550129.jpg",
+      "id": "57",
+      "price": "0"
+    },
+    {
+      "title": "Learning to Ride : BookShots",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9781786530059.jpg",
+      "id": "58",
+      "price": "0"
+    },
+    {
+      "title": "Keep Her Quiet",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9781784165253.jpg",
+      "id": "59",
+      "price": "0"
+    },
+    {
+      "title": "Nothing To Lose",
+      "rating": 3,
+      "category": "Crime",
+      "img": "https://bookshop.ge/content/uploads/products/9780553818116.jpg",
+      "id": "60",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780007466702.jpg",
+      "id": "61",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321004.jpg",
+      "id": "62",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780008372699.jpg",
+      "id": "63",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988268.jpg",
+      "id": "64",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780008526214.jpg",
+      "id": "65",
+      "price": "0"
+    },
+    {
+      "title": "One Of Us Is Lying",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9781338631050.jpg",
+      "id": "66",
+      "price": "0"
+    },
+    {
+      "title": "Book Lovers",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462021.jpg",
+      "id": "67",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780241476178.jpg",
+      "id": "68",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9781509878994.jpg",
+      "id": "69",
+      "price": "0"
+    },
+    {
+      "title": "One Of Us Is Lying",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462021.jpg",
+      "id": "70",
+      "price": "0"
+    },
+    {
+      "title": "",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988244.jpg",
+      "id": "71",
+      "price": "0"
+    },
+    {
+      "title": "Book Lovers",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321103.jpg",
+      "id": "72",
+      "price": "0"
+    },
+    {
+      "title": "",
+      "rating": 3,
+      "category": "Modern",
+      "img": "https://bookshop.ge/content/uploads/products/9780141324524.jpg",
+      "id": "73",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988268.jpg",
+      "id": "74",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988268.jpg",
+      "id": "75",
+      "price": "0"
+    },
+    {
+      "title": "One Of Us Is Lying",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9781509878994.jpg",
+      "id": "76",
+      "price": "0"
+    },
+    {
+      "title": "Book Lovers",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988268.jpg",
+      "id": "77",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780008372699.jpg",
+      "id": "78",
+      "price": "0"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780241476178.jpg",
+      "id": "79",
+      "price": "0"
+    },
+    {
+      "title": "One Of Us Is Lying",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780141324524.jpg",
+      "id": "80",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780008526214.jpg",
+      "id": "81",
+      "price": "0"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988244.jpg",
+      "id": "82",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9781338631050.jpg",
+      "id": "83",
+      "price": "0"
+    },
+    {
+      "title": "One Of Us Is Lying",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321103.jpg",
+      "id": "84",
+      "price": "0"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "rating": 3,
+      "category": "Fantasy",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462021.jpg",
+      "id": "85",
+      "price": "0"
+    },
+    {
+      "title": "YOU CAN grow your own food",
+      "rating": 2,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780008372699.jpg",
+      "id": "86",
+      "price": "0"
+    },
+    {
+      "title": "YOU CAN take amazing photos",
+      "rating": 1,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780008372682.jpg",
+      "id": "87",
+      "price": "0"
+    },
+    {
+      "title": "Junior Spelling Activity Book",
+      "rating": 4,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780008526214.jpg",
+      "id": "88",
+      "price": "0"
+    },
+    {
+      "title": "The Jungle Book",
+      "rating": 5,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780141325293.jpg",
+      "id": "89",
+      "price": "0"
+    },
+    {
+      "title": "King Arthur and His Knights of the Round Table",
+      "rating": 5,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321011.jpg",
+      "id": "90",
+      "price": "0"
+    },
+    {
+      "title": "A Christmas Carol",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780141324524.jpg",
+      "id": "91",
+      "price": "0"
+    },
+    {
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "rating": 1,
+      "category": "ChRandomildren",
+      "img": "https://bookshop.ge/content/uploads/products/9780141377568.jpg",
+      "id": "92",
+      "price": "0"
+    },
+    {
+      "title": "Sobrevivi El Huracan Katrina",
+      "rating": 4,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9781338631050.jpg",
+      "id": "93",
+      "price": "0"
+    },
+    {
+      "title": "The Adventures of Tom Sawyer",
+      "rating": 5,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321103.jpg",
+      "id": "94",
+      "price": "0"
+    },
+    {
+      "title": "The Call of the Wild",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321059.jpg",
+      "id": "95",
+      "price": "0"
+    },
+    {
+      "title": "The Odyssey ",
+      "rating": 1,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780140383096.jpg",
+      "id": "96",
+      "price": "0"
+    },
+    {
+      "title": "Treasure Island",
+      "rating": 4,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321004.jpg",
+      "id": "97",
+      "price": "0"
+    },
+    {
+      "title": "Blood Communion",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9781784758813.jpg",
+      "id": "98",
+      "price": "0"
+    },
+    {
+      "title": "The Inheritance Games",
+      "rating": 2,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780241476178.jpg",
+      "id": "99",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 4,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9781473665194.jpg",
+      "id": "100",
+      "price": "0"
+    },
+    {
+      "title": "Needful Things",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9781444707878.jpg",
+      "id": "101",
+      "price": "0"
+    },
+    {
+      "title": "Edgar Allan Poe",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9781911610212.jpg",
+      "id": "102",
+      "price": "0"
+    },
+    {
+      "title": "Good Omens",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780552176453.jpg",
+      "id": "103",
+      "price": "0"
+    },
+    {
+      "title": "YOU CAN grow your own food",
+      "rating": 2,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780008372699.jpg",
+      "id": "104",
+      "price": "0"
+    },
+    {
+      "title": "YOU CAN take amazing photos",
+      "rating": 1,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780008372682.jpg",
+      "id": "105",
+      "price": "0"
+    },
+    {
+      "title": "Junior Spelling Activity Book",
+      "rating": 4,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780008526214.jpg",
+      "id": "106",
+      "price": "0"
+    },
+    {
+      "title": "The Jungle Book",
+      "rating": 5,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780141325293.jpg",
+      "id": "107",
+      "price": "0"
+    },
+    {
+      "title": "King Arthur and His Knights of the Round Table",
+      "rating": 5,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321011.jpg",
+      "id": "108",
+      "price": "0"
+    },
+    {
+      "title": "A Christmas Carol",
+      "rating": 3,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780141324524.jpg",
+      "id": "109",
+      "price": "0"
+    },
+    {
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "rating": 1,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780141377568.jpg",
+      "id": "110",
+      "price": "0"
+    },
+    {
+      "title": "Sobrevivi El Huracan Katrina",
+      "rating": 4,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9781338631050.jpg",
+      "id": "111",
+      "price": "0"
+    },
+    {
+      "title": "The Adventures of Tom Sawyer",
+      "rating": 5,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321103.jpg",
+      "id": "112",
+      "price": "0"
+    },
+    {
+      "title": "The Call of the Wild",
+      "rating": 3,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321059.jpg",
+      "id": "113",
+      "price": "0"
+    },
+    {
+      "title": "The Odyssey ",
+      "rating": 1,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780140383096.jpg",
+      "id": "114",
+      "price": "0"
+    },
+    {
+      "title": "Treasure Island",
+      "rating": 4,
+      "category": "Adventure",
+      "img": "https://bookshop.ge/content/uploads/products/9780141321004.jpg",
+      "id": "115",
+      "price": "0"
+    },
+    {
+      "title": "Blood Communion",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781784758813.jpg",
+      "id": "116",
+      "price": "0"
+    },
+    {
+      "title": "The Inheritance Games",
+      "rating": 2,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780241476178.jpg",
+      "id": "117",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 4,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781473665194.jpg",
+      "id": "118",
+      "price": "0"
+    },
+    {
+      "title": "Needful Things",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781444707878.jpg",
+      "id": "119",
+      "price": "0"
+    },
+    {
+      "title": "Edgar Allan Poe",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781911610212.jpg",
+      "id": "120",
+      "price": "0"
+    },
+    {
+      "title": "Good Omens",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780552176453.jpg",
+      "id": "121",
+      "price": "0"
+    },
+    {
+      "title": "Stranger Things: Suspicious Minds",
+      "rating": 1,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462021.jpg",
+      "id": "122",
+      "price": "0"
+    },
+    {
+      "title": "Films to Scare you to Death",
+      "rating": 1,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781787391390.jpg",
+      "id": "123",
+      "price": "0"
+    },
+    {
+      "title": "Seventh Son",
+      "rating": 4,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781849418003.jpg",
+      "id": "124",
+      "price": "0"
+    },
+    {
+      "title": "Dracula",
+      "rating": 2,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780241411155.jpg",
+      "id": "125",
+      "price": "0"
+    },
+    {
+      "title": "It",
+      "rating": 5,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781473666948.jpg",
+      "id": "126",
+      "price": "0"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781473681293.jpg",
+      "id": "127",
+      "price": "0"
+    },
+    {
+      "title": "Book Lovers",
+      "rating": 1,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9780241995341.jpg",
+      "id": "128",
+      "price": "0"
+    },
+    {
+      "title": "Beach Read",
+      "rating": 2,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9780241989524.jpg",
+      "id": "129",
+      "price": "0"
+    },
+    {
+      "title": "The One",
+      "rating": 4,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9780007466719.jpg",
+      "id": "130",
+      "price": "0"
+    },
+    {
+      "title": "The Elite",
+      "rating": 5,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9780007466702.jpg",
+      "id": "131",
+      "price": "0"
+    },
+    {
+      "title": "The Crown",
+      "rating": 3,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9780007580248.jpg",
+      "id": "132",
+      "price": "0"
+    },
+    {
+      "title": "A Thousand Boy Kisses",
+      "rating": 2,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9781405955317.jpg",
+      "id": "133",
+      "price": "0"
+    },
+    {
+      "title": "Exes And O's",
+      "rating": 5,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9780241997543.jpg",
+      "id": "134",
+      "price": "0"
+    },
+    {
+      "title": "A Million Kisses In Your Lifetime",
+      "rating": 1,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9781405955560.jpg",
+      "id": "135",
+      "price": "0"
+    },
+    {
+      "title": "Daisy Jones and The Six",
+      "rating": 3,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462144.jpg",
+      "id": "136",
+      "price": "0"
+    },
+    {
+      "title": "Glint",
+      "rating": 2,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9781405955041.jpg",
+      "id": "137",
+      "price": "0"
+    },
+    {
+      "title": "Let It Snow : Film Tie-In",
+      "rating": 5,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9780141371207.jpg",
+      "id": "138",
+      "price": "0"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "rating": 3,
+      "category": "Politics",
+      "img": "https://bookshop.ge/content/uploads/products/9780141345659.jpg",
+      "id": "139",
+      "price": "0"
+    },
+    {
+      "title": "No Plan B",
+      "rating": 2,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9780552177559.jpg",
+      "id": "140",
+      "price": "0"
+    },
+    {
+      "title": "The Thursday Murder Club",
+      "rating": 4,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988268.jpg",
+      "id": "141",
+      "price": "0"
+    },
+    {
+      "title": "Gathering Dark",
+      "rating": 1,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462069.jpg",
+      "id": "142",
+      "price": "0"
+    },
+    {
+      "title": "The Man Who Died Twice",
+      "rating": 3,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988244.jpg",
+      "id": "143",
+      "price": "0"
+    },
+    {
+      "title": "One Of Us Is Lying",
+      "rating": 5,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9780141375632.jpg",
+      "id": "144",
+      "price": "0"
+    },
+    {
+      "title": "Two Can Keep a Secret",
+      "rating": 5,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9780141375656.jpg",
+      "id": "145",
+      "price": "0"
+    },
+    {
+      "title": "Serpentine",
+      "rating": 1,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9780241475249.jpg",
+      "id": "146",
+      "price": "0"
+    },
+    {
+      "title": "The Winters",
+      "rating": 3,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9781784709860.jpg",
+      "id": "147",
+      "price": "0"
+    },
+    {
+      "title": "The Push",
+      "rating": 3,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9781405945042.jpg",
+      "id": "148",
+      "price": "0"
+    },
+    {
+      "title": "Wolves of Rome",
+      "rating": 3,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9781509878994.jpg",
+      "id": "149",
+      "price": "0"
+    },
+    {
+      "title": "A Hologram for the King",
+      "rating": 3,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9780241979082.jpg",
+      "id": "150",
+      "price": "0"
+    },
+    {
+      "title": "Big Little Lies",
+      "rating": 3,
+      "category": "Classics",
+      "img": "https://bookshop.ge/content/uploads/products/9781405916363.jpg",
+      "id": "151",
+      "price": "0"
+    },
+    {
+      "title": "No Plan B",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780552177559.jpg",
+      "id": "152",
+      "price": "0"
+    },
+    {
+      "title": "Killing Floor ",
+      "rating": 5,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781529177206.jpg",
+      "id": "153",
+      "price": "0"
+    },
+    {
+      "title": "Gathering Dark",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781787462069.jpg",
+      "id": "154",
+      "price": "0"
+    },
+    {
+      "title": "The Thursday Murder Club",
+      "rating": 2,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780241988268.jpg",
+      "id": "155",
+      "price": "0"
+    },
+    {
+      "title": "19th Christmas",
+      "rating": 5,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781780899435.jpg",
+      "id": "156",
+      "price": "0"
+    },
+    {
+      "title": "Grotesque",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780099488934.jpg",
+      "id": "157",
+      "price": "0"
+    },
+    {
+      "title": "The Dinner Guest",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780008446086.jpg",
+      "id": "158",
+      "price": "0"
+    },
+    {
+      "title": "The Devil In The White City",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780553813531.jpg",
+      "id": "159",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780099550129.jpg",
+      "id": "160",
+      "price": "0"
+    },
+    {
+      "title": "Learning to Ride : BookShots",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781786530059.jpg",
+      "id": "161",
+      "price": "0"
+    },
+    {
+      "title": "Keep Her Quiet",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9781784165253.jpg",
+      "id": "162",
+      "price": "0"
+    },
+    {
+      "title": "Nothing To Lose",
+      "rating": 3,
+      "category": "History",
+      "img": "https://bookshop.ge/content/uploads/products/9780553818116.jpg",
+      "id": "163",
+      "price": "0"
+    },
+    {
+      "title": "19th Christmas",
+      "rating": 5,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9781780899435.jpg",
+      "id": "164",
+      "price": "0"
+    },
+    {
+      "title": "Grotesque",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780099488934.jpg",
+      "id": "165",
+      "price": "0"
+    },
+    {
+      "title": "The Dinner Guest",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780008446086.jpg",
+      "id": "166",
+      "price": "0"
+    },
+    {
+      "title": "The Devil In The White City",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780553813531.jpg",
+      "id": "167",
+      "price": "0"
+    },
+    {
+      "title": "Never More",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780099550129.jpg",
+      "id": "168",
+      "price": "0"
+    },
+    {
+      "title": "Learning to Ride : BookShots",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9781786530059.jpg",
+      "id": "169",
+      "price": "0"
+    },
+    {
+      "title": "Keep Her Quiet",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9781784165253.jpg",
+      "id": "170",
+      "price": "0"
+    },
+    {
+      "title": "Nothing To Lose",
+      "rating": 3,
+      "category": "Random",
+      "img": "https://bookshop.ge/content/uploads/products/9780553818116.jpg",
+      "id": "171",
+      "price": "0"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Children",
+      "id": 1
+    },
+    {
+      "category": "Horror",
+      "id": 2
+    },
+    {
+      "category": "Thriller",
+      "id": 3
+    },
+    {
+      "category": "Romance",
+      "id": 4
+    },
+    {
+      "category": "Crime",
+      "id": 5
+    },
+    {
+      "category": "Modern",
+      "id": 6
+    },
+    {
+      "category": "Fantasy",
+      "id": 7
+    },
+    {
+      "category": "Adventure",
+      "id": 8
+    },
+    {
+      "category": "History",
+      "id": 9
+    },
+    {
+      "category": "Politics",
+      "id": 10
+    },
+    {
+      "category": "Classics",
+      "id": 11
+    },
+    {
+      "category": "Fiction",
+      "id": 12
+    }
+  ]
+}
