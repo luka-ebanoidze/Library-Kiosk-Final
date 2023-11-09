@@ -25,19 +25,23 @@ const LoginView = (): React.ReactElement => {
   const { setUser } = useUser();
 
   const loginMutation = useMutation(async (loginData: LoginForm) => {
-    const response = await instance.get("/user");
+    try {
+      const response = await instance.get("/user");
 
-    const user = response.data.find(
-      ({ username, password }: LoginForm) =>
-        username === loginData.username && password === loginData.password
-    );
+      const user = response.data.find(
+        ({ username, password }: LoginForm) =>
+          username === loginData.username && password === loginData.password
+      );
 
-    if (user) {
-      setUser(user);
-      navigate(HOME.path);
-      toast.success("Successfully Logged in");
-    } else {
-      throw new Error("Username or password is not correct");
+      if (user) {
+        setUser(user);
+        navigate(HOME.path);
+        toast.success("Successfully Logged in");
+      } else {
+        toast.error("Username not correct");
+      }
+    } catch {
+      toast.error("Something went wrong");
     }
   });
 

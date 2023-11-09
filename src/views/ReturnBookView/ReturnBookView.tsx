@@ -16,7 +16,7 @@ interface ReturnBookForm {
   password: string;
 }
 
-const { BORROW_BOOK, RETURN_BOOK } = ROUTES_CONFIG;
+const { BORROW_BOOK, RETURN_BOOK, LOGIN } = ROUTES_CONFIG;
 
 const ReturnBookView = (): React.ReactElement => {
   const navigate = useNavigate();
@@ -25,9 +25,9 @@ const ReturnBookView = (): React.ReactElement => {
   const updateUserBooks = useUpdateUserBooks();
 
   const user = getUser();
-  const userId = user.id;
+  const userId = user?.id;
 
-  const { data: borrowedBooks } = useBorrowedBooks(user.id);
+  const { data: borrowedBooks } = useBorrowedBooks(userId);
 
   async function onSubmit(InputData: ReturnBookForm): Promise<void> {
     try {
@@ -42,10 +42,16 @@ const ReturnBookView = (): React.ReactElement => {
       } else if (!foundBook) {
         toast.error("Book id is not correct!");
       } else {
-        toast.error("Email or password is not correct");
+        toast.error("Password is not correct");
       }
     } catch {
-      toast.error("Something is wrong");
+      if (!userId) {
+        navigate(LOGIN.path);
+
+        toast.error("You are not loged in");
+      } else {
+        toast.error("Something is wrong");
+      }
     }
   }
 
