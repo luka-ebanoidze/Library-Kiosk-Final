@@ -1,21 +1,5 @@
 {
-  "user": [
-    {
-      "username": "123@123",
-      "password": "123",
-      "confirmation": "123",
-      "id": 1,
-      "books": [
-        {
-          "title": "Blood Communion",
-          "rating": 3,
-          "category": "Horror",
-          "img": "https://bookshop.ge/content/uploads/products/9781784758813.jpg",
-          "id": "13"
-        }
-      ]
-    }
-  ],
+  "user": [],
   "books": [
     {
       "title": "YOU CAN grow your own food",
