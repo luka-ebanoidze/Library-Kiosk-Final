@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import { useQuery } from "react-query";
 
 import { instance } from "../../utils/axiosInstance";
-import { Item } from "../../types/book.types";
+import { Item } from "../../types/book";
 
 import Container from "../../components/Container";
 import BookCard from "../../components/BookCard";

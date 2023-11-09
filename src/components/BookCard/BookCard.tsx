@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 import { Rating } from "@mui/material";
 
-import { Item } from "../../types/book.types";
+import { Item } from "../../types/book";
 import { ROUTES_CONFIG } from "../../config/routes";
 
 import LinkButton from "../LinkButton";
