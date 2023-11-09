@@ -3,6 +3,10 @@ import axios from "axios";
 
 const useBorrowedBooks = (userId: any) => {
   return useQuery(["borrowedBooks", userId], async () => {
+    if (!userId) {
+      return [];
+    }
+
     const { data } = await axios.get(`http://localhost:3000/user/${userId}`);
 
     return data.books || [];
